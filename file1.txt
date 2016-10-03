@@ -1,1 +1,12 @@
 This is file1 on branch 5B
+
+This is file1, on branch 3B
+HI!
+This is change 3B. Modifying master.
+Making change for task4A!
+
+Hopefully this works 5A
+
+Nope it didn't, fixing merge conflicts
+
+Now we also have 5B
